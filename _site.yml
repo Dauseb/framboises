@@ -1,9 +1,9 @@
-name: "My new website"
+name: "Framboises 2022"
 output_dir: 'docs'
 output:
   html_document:
-    theme: cerulean
-    highlight: zenburn
+    theme: default
+    highlight: monochrome
     toc: true
     toc_depth: 2
     toc_float:
